@@ -1,0 +1,322 @@
+[
+  {
+    "input": "Le succès n’est pas final, l’échec n’est pas fatal, c’est le courage de continuer qui compte.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans la vie on ne fait pas ce que l'on veut mais on est responsable de ce que l'on est.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Je ne perds jamais. Soit je gagne, soit j’apprends.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La rue n'apprend pas à vivre, elle apprend à survivre.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La vie c'est comme la boxe, y a des coups que t'encaisses et d'autres qui te blessent.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Chaque étoile dans le ciel brille, mais la mienne guide mon chemin.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans le silence de la nuit, j’écris mes rêves en musique.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Le sommet est ma maison, la persévérance mon chemin.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Mes rêves sont des feux d'artifice, illuminant le ciel de mon destin.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La vie est un jeu d'échecs, et je joue pour gagner.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Les rêves donnent du travail.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Poussez-vous de mon soleil, j’ai décidé de briller.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Chaque difficulté rencontrée doit être l’occasion d’un nouveau progrès.",
+    "label": "inspiring"
+  },
+  {
+    "input": "J'ai compris que pour briller il fallait que je m'élève.",
+    "label": "inspiring"
+  },
+  {
+    "input": "On n'est pas le meilleur quand on le croit mais quand on le sait.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Le courage n'est pas l'absence de peur, mais la force de la conquérir.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans chaque échec, il y a les graines du succès.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La persévérance est le secret de tous les triomphes.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Ose rêver, ose essayer, ose te tromper, ose réussir.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Ne regarde pas l'horloge, fais ce qu'elle fait : continue de bouger.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans la vie, tu sais, on est ce que l'on est, mais l'essentiel c'est d'assumer ce que l'on fait.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La vie est une école, le monde est une classe.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Je viens de loin, mais je sais où je vais.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Ma musique a une couleur, elle peint ma vie.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Les rêves nous gardent vivants, poursuis-les.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La réussite est un voyage, pas une destination.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Ma voix est mon arme, mes mots sont mes balles.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans l'obscurité de l'échec, je trouve la lumière du succès.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Ma plume est mon épée, mes paroles mon bouclier.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La rue m'a élevé, mais c'est la musique qui m'a sauvé.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Vis comme si tu devais mourir demain. Apprends comme si tu devais vivre toujours.",
+    "label": "inspiring"
+  },
+  {
+    "input": "L'échec n'est qu'un détour, pas une destination finale.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Rêve grand, travaille dur, reste humble.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La musique est mon refuge, dans les notes, je trouve la paix.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La vie est un combat, et je suis un guerrier.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Les étoiles sont innombrables, mais la mienne brillera le plus.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans chaque note de ma musique, je peins mon avenir.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La détermination est le carburant de mes rêves.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Les obstacles ne sont que des tremplins vers le succès.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans la symphonie de la vie, je suis le chef d'orchestre.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La lumière vient de l'intérieur, elle éclaire mon chemin dans le noir.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Ma vie est un livre, chaque jour j'écris une nouvelle page.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Mes rêves sont plus grands que mes peurs.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Je transforme les obstacles en escaliers vers le succès.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La musique, c'est mon oxygène, dans chaque respiration une inspiration.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Chaque pas en arrière est une leçon, chaque pas en avant une victoire.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La vérité dans mes mots, la passion dans mon flow.",
+    "label": "inspiring"
+  },
+  {
+    "input": "J'ai appris à danser sous la pluie, maintenant chaque goutte est une note de musique.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Mon histoire n'est pas écrite par la plume du destin, mais par la mienne.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans le silence de mes pensées, je trouve la mélodie de ma vie.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La réussite est le fruit de la patience et du travail.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Les étoiles ne peuvent briller sans obscurité.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La plus grande gloire n'est pas de ne jamais tomber, mais de se relever à chaque chute.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Chaque échec est une étape vers le succès.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La musique est la langue de l'âme, à travers elle je m'exprime.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Ne crains pas l'échec, crains plutôt de ne pas essayer.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans chaque mélodie, je trouve un chemin vers mes rêves.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La persévérance est le rythme de mon succès.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La vie est une toile, et chaque jour je peins mon chef-d'œuvre.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Ma détermination est inébranlable, comme les montagnes face au vent.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Chaque obstacle sur ma route, je le transforme en tremplin.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Ma réalité dépasse mes rêves, je vis ce que j'écris.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La vie est un combat, et dans chaque rime, je trouve ma force.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Je peins ma vie avec les couleurs de mes rêves.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans le miroir de mes mots, je vois mon avenir.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La scène est mon royaume, le micro mon sceptre.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans le silence, j'entends l'appel de mes rêves.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Chaque ligne de mes textes trace le chemin de ma destinée.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La musique est mon échappatoire, dans chaque accord, je m'évade.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Mes échecs sont les pierres angulaires de mon succès.",
+    "label": "inspiring"
+  },
+  {
+    "input": "L'ambition est l'essence de la réussite.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Viser la lune, ça ne me fait pas peur, même à l'usure, j'y crois encore et en cœur.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Les rêves sont les ailes de l'esprit, vole vers ce que tu veux devenir.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans le reflet de mes mots, je trouve la lumière.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La mélodie de la vie est pleine de surprises, joue-la avec passion.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Ma détermination est comme le fleuve, elle contourne les obstacles.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Dans chaque battement de cœur, je sens la musique de la vie.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Je suis l'architecte de mon destin, la musique est mon plan.",
+    "label": "inspiring"
+  },
+  {
+    "input": "Chaque jour est une note dans la symphonie de la vie.",
+    "label": "inspiring"
+  },
+  {
+    "input": "La persévérance est la clé de la voûte de mes rêves.",
+    "label": "inspiring"
+  }
+]
