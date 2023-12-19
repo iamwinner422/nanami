@@ -318,5 +318,1205 @@
   {
     "input": "La persévérance est la clé de la voûte de mes rêves.",
     "label": "inspiring"
+  },
+  {
+    "input": "paix chaud froid fort",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fleur bleu rapidement froid gros",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "paix ciel étoile lunettes pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pluie manger table chat ciel heureux soleil fort",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "heureux salé pluie mince",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "amour amour étoile lunettes souris amour chaise nuit",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "triste manger voiture",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bleu montagne forêt",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaise lumière étoile amour bleu rouge",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "arbre forêt paix",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "épicé pluie neige",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "épicé pluie doux pomme rivière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaud livre bleu chaise vent valée manger forêt livre",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "neige heureux lunettes maison table",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "paix bleu musique rapidement soleil étoile lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "montagne maison chaise soleil livre forêt nuit arbre amour table",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "maison chat maison livre épicé épicé livre manger chaud pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "voiture chat ordinateur fort chat étoile rouge vent maison",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "nuit rivière paix rapidement neige",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile heureux épicé ciel pomme arbre chaud",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "montagne froid chaud",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "montagne lune nuit rivière ordinateur",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris épicé forêt eau étoile triste",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "mince triste rivière fleur mince lunettes jour ordinateur forêt valée",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ciel lumière voiture amer musique doux salé nuit",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "musique forêt paix ciel pluie musique",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "valée mince manger amour rouge soleil",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "nuit lune doux mince",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaud salé épicé doux manger épicé ordinateur table lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fromage montagne table fort lune rivière chaud rouge",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "vent étoile maison nuit valée fort épicé forêt rivière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fleur amour soleil eau eau ordinateur arbre neige",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fromage montagne table valée fromage fromage",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "livre nuit gros lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pluie rapidement maison rouge froid",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile pluie lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "livre fromage jour table froid amour voiture ordinateur pomme vent",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fromage vent gros épicé salé bleu",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile étoile lunettes lumière pomme rouge mince",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "montagne nuit étoile fromage fleur chaise ciel",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ciel paix fleur doux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pluie forêt arbre heureux vent",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "amour livre eau fleur",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris forêt rapidement",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "épicé montagne chat soleil bonjour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaise gros ciel paix ordinateur rapidement arbre eau",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fort fromage doux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "froid triste rouge souris lumière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fromage lunettes heureux fleur chaud voiture jour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "musique rivière chaise arbre lunettes ciel musique",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "soleil chaise pomme fleur chaud mince",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "jour lune rouge maison lunettes pluie étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "arbre chaud valée manger manger pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris chaud bleu",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "voiture maison montagne",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "heureux ciel triste fleur triste épicé fromage arbre mince",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "livre pluie livre ciel doux ciel livre",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "mince paix lumière doux étoile lumière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "doux fromage doux chaise arbre lumière fort",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "amour fort manger épicé table",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "mince manger gros doux froid jour pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chat ordinateur valée bonjour paix livre gros pluie",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "arbre ciel chat chaise fort chaud maison salé neige",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "paix jour musique fleur neige fleur voiture froid lunettes amour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "forêt chaud étoile eau fleur doux chat",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile souris rivière amour manger",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris arbre arbre pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lune rivière épicé livre livre fort heureux chaud rouge forêt",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris pomme bleu eau forêt froid",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "nuit fromage lumière forêt ciel pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaise lumière mince heureux chaud amour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "froid fleur étoile manger jour nuit ordinateur livre souris arbre",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ciel mince amour amer pluie froid neige nuit",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "valée eau pluie froid lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bleu lune neige bonjour musique montagne amer chaud manger épicé",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fort lune vent chat chaise rivière amer",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "montagne mince valée pomme chat fromage musique",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bonjour soleil montagne bleu table livre jour ciel forêt valée",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "amer heureux maison doux pomme souris maison rouge froid lumière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fromage rapidement pluie table soleil rivière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "amer étoile pluie soleil",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rivière manger nuit lune amer pluie",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bonjour soleil étoile chat amer fort",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fort arbre chaud valée rapidement soleil mince manger eau lumière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lumière bleu fort salé rouge lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "voiture rapidement bonjour ciel paix",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "maison rouge ordinateur chat amer chat fort",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaise souris lumière mince fromage livre lune fort fleur étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "amour ciel table épicé bonjour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "triste étoile étoile soleil",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ciel souris lune paix vent bonjour voiture",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "arbre forêt neige rivière doux vent épicé chaud",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "jour table ciel étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pluie soleil pomme jour musique soleil rapidement amer",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris gros fromage salé rouge chat soleil",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile triste doux chat",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "soleil maison livre chat rapidement",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaise heureux souris valée fort mince fort",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "soleil neige souris",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rapidement livre lumière vent bonjour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "maison étoile rapidement vent rivière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ciel musique ciel amour froid bleu",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "soleil mince chaud",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "valée jour étoile doux souris",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaud lunettes fleur mince salé rivière nuit",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "eau chaud rapidement",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "manger forêt rivière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "forêt froid pluie souris heureux nuit",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "gros forêt fromage chat voiture livre amour gros rapidement table",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chat triste fort mince",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bleu arbre épicé forêt étoile arbre pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rivière lumière fleur valée fort",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "montagne jour rivière froid lumière paix",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "voiture montagne lunettes doux souris lunettes rouge étoile manger",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pomme nuit ciel amer mince arbre fromage souris souris",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "eau voiture chaise étoile doux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pluie fort doux rivière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ordinateur chaud rapidement",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "soleil vent étoile arbre valée soleil gros pluie rouge",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "montagne souris étoile eau livre bonjour pomme ordinateur jour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bleu ordinateur valée",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "arbre voiture pluie forêt pluie amour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "paix fromage ciel souris fleur jour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "froid gros voiture soleil vent livre manger forêt froid heureux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris froid soleil étoile arbre table vent fromage étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "arbre vent arbre jour arbre froid lunettes ciel étoile fort",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "triste paix manger valée musique",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "épicé valée lunettes jour épicé chaise manger forêt salé doux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "jour doux doux neige valée ciel étoile ciel amer",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "nuit vent ciel bleu nuit manger ciel table bleu",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bleu ciel chaise livre fleur",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "table vent neige livre doux nuit étoile chaud montagne",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "musique salé ciel bleu nuit triste rivière doux table lune",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "gros étoile étoile manger rapidement étoile fleur lumière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rivière lune gros rouge lumière ciel doux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "livre lumière manger triste maison étoile lunettes souris amour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fort montagne ciel étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lunettes étoile bleu nuit ciel étoile gros fort",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "triste amour fleur maison mince froid pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "salé ciel voiture arbre ciel bleu pomme valée forêt fromage",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "salé table bleu eau salé",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris rouge voiture soleil montagne manger",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris maison bleu",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile chaud rapidement lunettes manger manger table heureux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ciel étoile froid",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "montagne musique mince pomme arbre vent neige rivière ordinateur ordinateur",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "heureux pomme rivière triste ordinateur neige table",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ciel table montagne arbre pomme étoile épicé bonjour doux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "livre heureux rivière étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ordinateur froid chaud rapidement livre amer",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "eau forêt vent rouge lunettes lunettes amer triste montagne forêt",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "musique mince valée",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chat livre chaise",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chat maison épicé eau amer fleur amer triste bonjour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ciel étoile lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "vent fort gros rouge chaud rapidement",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "mince nuit lunettes montagne lunettes musique chaud",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "paix ciel chat paix",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "eau lune souris rouge rapidement lune",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "manger heureux paix",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "livre chaise eau soleil lune ciel",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "maison fromage eau chaise lunettes forêt lumière table forêt ordinateur",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bleu amer salé froid épicé pluie",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "table bleu nuit lunettes chaise neige fort rivière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "montagne manger voiture souris heureux mince nuit épicé souris",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lumière ciel chaud lune nuit lunettes pomme ciel bleu neige",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "épicé salé pluie lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "neige ciel épicé ordinateur",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "voiture pomme montagne",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "maison eau triste",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rouge fromage musique salé lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "froid soleil livre",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "amour doux ciel eau pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile vent arbre salé table montagne jour arbre triste",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "neige mince livre ordinateur vent bleu",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "froid gros souris paix bleu vent heureux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bonjour arbre salé salé fromage",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fort fleur froid",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ordinateur ciel arbre forêt triste nuit montagne",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaise eau soleil livre rouge manger",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fromage eau bleu pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "vent table forêt",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaise vent rouge bonjour lunettes bleu manger lunettes forêt lune",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lumière rivière table triste",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "nuit épicé paix lumière salé ordinateur arbre",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bleu fromage amour amer voiture amour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "table froid musique arbre ciel amour bonjour ciel lune",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "salé pluie ciel rapidement bonjour manger amer mince ciel eau",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "mince chat manger doux rivière fromage",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "neige arbre manger lune",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "livre pomme étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "jour manger soleil eau rivière gros souris",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fromage lunettes bonjour vent souris bonjour lune lune ordinateur eau",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile voiture forêt maison jour table étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bonjour fort amer maison valée",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "triste souris arbre chaise",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lunettes doux chaise bleu",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "gros heureux soleil arbre vent amour soleil jour jour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "vent lune ciel salé voiture valée montagne souris",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ciel chat bleu",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile fort lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris souris amer doux lunettes épicé chat",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lunettes musique paix gros bonjour table",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "livre chaud salé amour voiture souris forêt forêt",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rouge maison étoile étoile gros souris pomme nuit jour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rapidement maison fleur pluie fleur fleur gros pomme amer fromage",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile valée nuit bleu froid soleil neige",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bleu lune lunettes arbre",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fromage épicé étoile lumière musique ciel",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "paix nuit voiture gros vent gros voiture fleur chaise",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pomme gros étoile ciel épicé nuit pomme voiture",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "manger rivière amer livre triste pluie doux vent doux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "musique neige vent fromage rivière amour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaise neige salé salé",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "nuit nuit mince",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "manger gros nuit lumière étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "musique neige fromage étoile ciel mince lune mince soleil",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rivière voiture forêt rapidement souris chat",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bonjour épicé rouge pomme rivière table",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "paix pluie salé table chat mince",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bleu gros ciel gros",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ordinateur rouge musique ordinateur épicé étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pomme nuit amer froid jour jour chaud arbre froid gros",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "valée triste pomme valée",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pluie amer mince lumière rivière nuit",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lumière rouge rapidement amour ciel fleur lunettes heureux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ciel étoile triste montagne maison livre forêt heureux chat table",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "nuit fort froid doux nuit montagne neige",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "neige forêt ciel eau valée ciel nuit",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pluie froid nuit rouge pomme ordinateur eau maison forêt montagne",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rapidement gros table étoile table salé amour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pomme rivière ciel étoile chat forêt chaise souris étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "montagne neige épicé chaud étoile fromage épicé amer heureux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaise fort neige fleur soleil rivière eau voiture étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lune forêt paix fort amer forêt lune étoile pomme rouge",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "valée livre voiture musique",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "forêt rouge amer neige valée souris ordinateur doux heureux lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris lune épicé ordinateur",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "manger mince amer",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "eau étoile étoile gros étoile maison heureux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "eau maison amour pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lunettes lune valée ciel arbre mince",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bleu rivière pomme eau",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "eau neige forêt",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaud neige fromage fort chaud manger paix lumière amour triste",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris neige forêt nuit manger triste rapidement salé montagne",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "doux mince maison manger",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bonjour lunettes salé ciel table chaise vent paix pomme",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "manger chaud amour salé bonjour maison",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "épicé rivière nuit chaise",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "manger souris amour chaud",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "manger ciel valée",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "salé soleil lunettes étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "eau forêt jour étoile lunettes mince pomme salé fromage nuit",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rapidement ciel soleil épicé rouge eau",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "forêt livre forêt doux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "paix forêt livre nuit ciel",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ciel rivière fromage paix chat fromage",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "épicé nuit lunettes bleu chat table fort rivière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "neige soleil ciel amer triste",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "salé triste musique jour chat ordinateur amer pluie",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "ordinateur doux chaise heureux",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "doux mince manger ciel salé musique soleil",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaise lumière neige épicé",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "livre triste lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rouge montagne bonjour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bonjour souris soleil soleil manger ciel voiture gros",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile étoile vent jour pomme ciel ordinateur chat chaud",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lumière triste vent bonjour bonjour chaise chaise lumière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rivière rouge chaise voiture rouge triste table gros",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris heureux ciel manger maison étoile soleil",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile souris voiture voiture",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile doux table",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaise triste ciel musique rouge fleur mince manger neige souris",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "chaud doux vent",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lumière chat lune épicé lunettes épicé chat",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "paix vent maison étoile",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "rapidement rivière chaud étoile manger ordinateur souris gros",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "manger épicé amour arbre lumière nuit fort ciel montagne voiture",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "montagne amer eau forêt",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fromage rapidement forêt",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "soleil bleu épicé lumière heureux maison montagne",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "étoile amer forêt paix",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "gros vent gros chaud",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "épicé amour mince",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "heureux ordinateur lune",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lunettes voiture ciel froid livre bleu bleu ordinateur chaud",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pluie chat valée heureux musique neige",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "pomme heureux montagne épicé épicé pluie pluie",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "mince forêt ciel",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "gros fromage voiture mince ciel épicé chaise",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "lunettes musique table rivière amour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "doux pluie chaise lumière vent",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "amour bleu rouge bonjour lunettes",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "froid heureux pluie nuit épicé épicé salé table",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fromage pluie valée triste chaud rivière souris maison neige rivière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "bleu salé rivière neige triste neige triste",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "maison étoile amour rivière",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "souris voiture heureux pluie valée chat paix épicé amour",
+    "label": "not-inspiring"
+  },
+  {
+    "input": "fort table ciel montagne triste",
+    "label": "not-inspiring"
   }
 ]
